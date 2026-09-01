@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Gabriel de Souza Barros
 
-💻 Desenvolvedor Full Stack  
+💻 Desenvolvedor Full Stack (Junior)
 🎯 Focado em desenvolvimento de APIs, automações e sistemas web  
 🚀 Experiência prática com projetos reais e integrações  
 
@@ -13,7 +13,7 @@ Sou desenvolvedor com experiência em múltiplas tecnologias, atuando principalm
 Tenho prática com:
 
 - Desenvolvimento de APIs REST
-- Integrações com serviços externos (ex: consulta de CNPJ)
+- Integrações com serviços externos
 - Automação de processos
 - Desenvolvimento web e mobile
 
@@ -25,22 +25,25 @@ Busco sempre escrever código funcional, organizado e aplicável a problemas rea
 
 ### Backend
 - PHP (Laravel, Slim)
-- Node.js
-- Python
+- Node.js (Express)
+- Python (fastAPI)
+- Java (Spring boot)
 
 ### Frontend
 - JavaScript
-- HTML / CSS
+- HTML / CSS / BOOTSTRAP
 
 ### Mobile
-- Flutter
+- Flutter / Getx
 
 ### Outras
-- Java
-- C++
+- N8N
 - Docker
 - APIs REST
-- Testes de software
+- Testes de software (Junit, phpunit)
+- Versionamento Git, GitHub e Git Actions
+- Experiência com CyberWeb
+- Facilidade com linux 
 
 ---
 
@@ -90,6 +93,9 @@ Busco oportunidades como:
 ✔️ Facilidade em aprender novas tecnologias  
 ✔️ Experiência com integrações e APIs  
 ✔️ Perfil autodidata  
+✔️ Prompt Enginer
+✔️ Facil comunicação em equipe 
+✔️ Qualidade de software
 
 ---
 
